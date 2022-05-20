@@ -1,1 +1,1 @@
-splits a string and makes it an array of pointers to words
+exits the shell with or without a return of statu
